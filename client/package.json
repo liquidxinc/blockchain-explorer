@@ -15,7 +15,7 @@
 		"font-awesome": "^4.7.0",
 		"immutable": "^3.8.1",
 		"jquery": "^3.4.0",
-		"js-beautify": "^1.7.5",
+		"js-beautify": "^1.14.2",
 		"lodash": "^4.17.10",
 		"match-sorter": "^2.2.1",
 		"moment": "^2.22.2",
